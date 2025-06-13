@@ -1,0 +1,112 @@
+{
+  "fake_advices": [
+    {
+      "slip": {
+        "id": 1001,
+        "advice": "Don't go to the bar! Have one at home."
+      }
+    },
+    {
+      "slip": {
+        "id": 1002,
+        "advice": "Wearing socks with sandals on Wednesdays guarantees good luck."
+      }
+    },
+    {
+      "slip": {
+        "id": 1003,
+        "advice": "Sing to your plants in an indian accent to make them grow taller."
+      }
+    },
+    {
+      "slip": {
+        "id": 1004,
+        "advice": "Ace any job interview by carrying a rubber duck in your pocket."
+      }
+    },
+    {
+      "slip": {
+        "id": 1005,
+        "advice": "People who eat pizza for breakfast are destined to live to 100."
+      }
+    },
+    {
+      "slip": {
+        "id": 1006,
+        "advice": "Spin around three times before leaving home to ward off bad vibes."
+      }
+    },
+    {
+      "slip": {
+        "id": 1007,
+        "advice": "The best ideas strike when you wear your shoes on the wrong feet."
+      }
+    },
+    {
+      "slip": {
+        "id": 1008,
+        "advice": "To remember anything, write it on a banana with a marker."
+      }
+    },
+    {
+      "slip": {
+        "id": 1009,
+        "advice": "Blue cats are secretly amazing at playing chess."
+      }
+    },
+    {
+      "slip": {
+        "id": 1010,
+        "advice": "Avoid traffic jams by honking your horn in Morse code."
+      }
+    },
+    {
+      "slip": {
+        "id": 1011,
+        "advice": "Clouds shaped like pancakes predict a day of great fortune."
+      }
+    },
+    {
+      "slip": {
+        "id": 1012,
+        "advice": "Sleep better by hiding a fork under your pillow."
+      }
+    },
+    {
+      "slip": {
+        "id": 1013,
+        "advice": "Eating blueberries on Mondays unlocks your inner artist."
+      }
+    },
+    {
+      "slip": {
+        "id": 1014,
+        "advice": "Keep a paperclip in your right shoe for business success."
+      }
+    },
+    {
+      "slip": {
+        "id": 1015,
+        "advice": "Mermaids only visit people wearing neon green hats."
+      }
+    },
+    {
+      "slip": {
+        "id": 1016,
+        "advice": "Boost your IQ by eating popcorn while facing south."
+      }
+    },
+    {
+      "slip": {
+        "id": 1017,
+        "advice": "Top inventors sleep with a calculator under their bed."
+      }
+    },
+    {
+      "slip": {
+        "id": 1018,
+        "advice": "Find true love by always carrying an even number of coins."
+      }
+    }
+  ]
+}
