@@ -1,4 +1,4 @@
-# 🎮 
+# 🎮 Truth or Fake — Mini-jeu interactif avec React, TypeScript et Mantine
 Bienvenue dans mon projet réalisé pour le test technique de **Base for Music**.
 
 Le but était de développer un mini-jeu interactif basé sur l'API publique **Advice Slip JSON API**, permettant aux joueurs de deviner si le conseil affiché est réel ou généré aléatoirement.
